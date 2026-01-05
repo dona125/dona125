@@ -40,4 +40,7 @@
   <a href="mailto:donamndl125@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="28" />
   </a>
+
+  [![Devfolio](https://img.shields.io/badge/Devfolio-2962FF?style=flat&logo=devfolio&logoColor=white)](https://devfolio.co/@dona0107)
+
 </p>
