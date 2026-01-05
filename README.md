@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning Large Language Models 
 - 💬 Ask me about Python, Flask, AI & ML
 - 📫 How to reach me: donamndl125@gmail.com
-- ⚡ Fun fact: ...
 -->
 
   ### Tools I use
