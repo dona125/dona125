@@ -34,10 +34,10 @@
   </a>
 
    <a href="https://devfolio.co/@dona0107" target="_blank">
-    <img src="https://raw.githubusercontent.com/devfoliohq/devfolio-branding/main/logo/devfolio-logo.svg" width="28" />
+    <img src="https://raw.githubusercontent.com/devfoliohq/devfolio-branding/main/logo/devfolio-mark.svg" width="28" />
   </a>
 
   <a href="mailto:donamndl125@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="28" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="28" />
   </a>
 </p>
