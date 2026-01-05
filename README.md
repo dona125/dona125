@@ -2,8 +2,6 @@
 
 **Backend Developer | Data & AI Enthusiast**
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Python & ML projects
 - 🌱 I’m currently learning Large Language Models 
 - 💬 Ask me about Python, Flask, AI & ML
