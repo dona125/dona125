@@ -2,8 +2,8 @@
 
 **Backend Developer | Data & AI Enthusiast**
 
-- 🔭 I’m currently working on Python & ML projects
-- 🌱 Currently exploring Large Language Models 
+- 🔭 Working on Python & ML projects
+- 🌱 Currently exploring Large Language Models and Blockchain
 - 💬 Ask me about Python, Django, Flask, AI & ML
 - 📫 Reach me through: donamndl125@gmail.com
 
@@ -27,10 +27,6 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/dona01" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" />
-  </a>
-
-  <a href="https://github.com/dona125" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28" />
   </a>
 
   <a href="mailto:donamndl125@gmail.com">
