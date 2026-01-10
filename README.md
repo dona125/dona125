@@ -1,11 +1,11 @@
-## Hi 👋, I’m Dona Mondal
+## Hi 👋, I’m Dona
 
 **Backend Developer | Data & AI Enthusiast**
 
 - 🔭 I’m currently working on Python & ML projects
-- 🌱 I’m currently learning Large Language Models 
-- 💬 Ask me about Python, Flask, AI & ML
-- 📫 How to reach me: donamndl125@gmail.com
+- 🌱 Currently exploring Large Language Models 
+- 💬 Ask me about Python, Django, Flask, AI & ML
+- 📫 Reach me through: donamndl125@gmail.com
 
   ### Languages and Tools:
 <p align="left">
