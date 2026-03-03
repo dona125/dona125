@@ -1,6 +1,6 @@
-## Hi 👋, I’m Dona
+<h1 align="center">Hi 👋, I’m Dona</h1>
 
-**Backend Developer | Data & AI Enthusiast**
+<h3 align="center">Backend Developer | Data & AI Enthusiast</h3>
 
 - 🔭 Working on Python & ML projects
 - 🌱 Currently exploring Large Language Models and Blockchain
