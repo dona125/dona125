@@ -23,13 +23,11 @@
   <img src="https://skillicons.dev/icons?i=python,flask,django,mongodb,mysql,nodejs,react,git,postman" />
 </p>
 
-  ### Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/dona01" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" />
-  </a>
+  ### 🌐 Connect With Me:
+<p align="center">
 
-  <a href="mailto:donamndl125@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="28" />
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dona%20Mondal-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dona01)
+
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:donamndl125@gmail.com)
+
 </p>
