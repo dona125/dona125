@@ -6,8 +6,6 @@
   </a>
 </p>
 
-<h3 align="center">Backend Developer | Data & AI Enthusiast</h3>
-
 - 🔭 Working on Python & ML projects
 - 🌱 Currently exploring Large Language Models and Blockchain
 - 💬 Ask me about Python, Django, Flask, AI & ML
