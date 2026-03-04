@@ -18,6 +18,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=donamndl&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=donamndl&show_icons=true&theme=tokyonight" />
+</p>
+
   ### 🛠 Languages and Tools:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,flask,django,mongodb,mysql,nodejs,react,git,postman" />
