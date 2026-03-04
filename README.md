@@ -13,11 +13,8 @@
 
   ### 📈 GitHub Stats
 <p align="center">
-
-![Dona's GitHub stats](https://github-readme-stats.vercel.app/api?username=donamndl&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=donamndl&theme=tokyonight)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=donamndl&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=donamndl&theme=tokyonight" />
 </p>
 
   ### 🛠 Languages and Tools:
