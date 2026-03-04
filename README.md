@@ -29,9 +29,6 @@
 
   ### 🌐 Connect With Me:
 <p align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dona%20Mondal-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dona01)
-
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:donamndl125@gmail.com)
-
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dona%20Mondal-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dona01)
+  [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:donamndl125@gmail.com)
 </p>
